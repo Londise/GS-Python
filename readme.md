@@ -1,6 +1,3 @@
-# 🎓 Sistema de Recomendação de Cursos — Knapsack Dinâmico
-
-
 # 🌐 Synapse — Requalificação Inteligente com IA e Otimização Dinâmica
 
 ## 🧠 Visão Geral
@@ -9,8 +6,8 @@
 A plataforma conecta **trabalhadores, empresas e mentores**, criando **trilhas de aprendizado personalizadas** com base no tempo disponível, perfil e impacto socioeconômico.
 
 ---
-
-## 🎯 Objetivo do Projeto
+## 🎓 Sistema de Recomendação de Cursos — Knapsack Dinâmico
+### 🎯 Objetivo do Projeto
 Este módulo em Python é um protótipo que faz parte da plataforma **Synapse**. aplica conceitos de **Programação Dinâmica (Dynamic Programming)**, especificamente o **Problema da Mochila (Knapsack Problem)**, para recomendar cursos ideais a cada usuário de acordo com seu tempo disponível e nível de conhecimento. De modo a criar um sistema de requalificação profissional mais empático, tendo em conta variáveis sociais mas também buscando o melhor aproveitamento da plataforma.
 
 ---
