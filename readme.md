@@ -31,9 +31,9 @@ Este módulo em Python é um protótipo que faz parte da plataforma **Synapse**.
 ## 🧩 Lógica do Sistema
 
 1. O usuário faz **login** ou **cadastro**.
-2. O sistema calcula a **capacidade total semanal** (`tempo_diário × 7`).
+2. O sistema calcula a **capacidade total semanal** (`tempo_diário × 7`) de acordo com o seu tempo diário disponível.
 3. Os cursos são selecionados via **knapsack dinâmico**.
-4. Dentre a solução ótima, são escolhidos os **3 mais eficientes**.
+4. Dentre a solução ótima, são escolhidos os **3 cursos mais eficientes** únicos para o perfil do usuário.
 5. Gera-se um relatório `.txt` com o resultado.
 
 ---
