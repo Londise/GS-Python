@@ -52,10 +52,10 @@ Nome de usuário: admin
 Senha: admin
 
 📊 Cursos ordenados por impacto (decrescente):
-            nome  impacto  custo
+            nome         impacto  custo
 0   Machine Learning       10     30
-1        Data Science       10      5
-2              Python        9     15
+1   Data Science           10      5
+2   Python                  9     15
 ...
 
 📆 Horizonte: 7 dias × 24h/dia = 168h disponíveis
